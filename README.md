@@ -1,1 +1,1 @@
-# ooo
+Python basic
